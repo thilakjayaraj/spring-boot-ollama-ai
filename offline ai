@@ -1,0 +1,9 @@
+# 🚀 Offline Enterprise AI Assistant (Spring Boot + LangChain4j + Ollama)
+
+A privacy-first, fully offline enterprise AI backend built with **Java 17**, **Spring Boot 4**, and **LangChain4j**, seamlessly integrated with a local **Llama 3.2** LLM running via **Ollama**.
+
+---
+
+## 📌 Architecture Overview
+
+This project provides a lightweight REST API that delegates intelligent conversational capabilities to an offline, locally hosted LLM. Keeping model inference entirely local ensures zero data leakage and removes any dependency on external API keys.
